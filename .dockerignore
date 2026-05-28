@@ -1,0 +1,6 @@
+.git
+.gitlab-ci.yml
+roles/
+playbook.yml
+screenshots/
+*.md
